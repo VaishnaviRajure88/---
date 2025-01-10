@@ -13,8 +13,7 @@ This is an **Online Examination System** implemented in Java. It allows users to
 
 ## Requirements
 1. Java JDK (version 8 or above)
-2. Git (optional, for cloning the repository)
-3. Text editor or IDE (e.g., Visual Studio Code)
+2. Text editor or IDE (e.g., Visual Studio Code)
 
 ---
 
